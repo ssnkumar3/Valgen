@@ -1,4 +1,4 @@
-namespace valgen
+namespace Valgen
 {
   public class Admin
   {
