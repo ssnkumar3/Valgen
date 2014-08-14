@@ -6,5 +6,10 @@ namespace Valgen
     {
       return "Admin Created";
     }
+    
+    public string Update Admin()
+    {
+      return "Admin Updated";
+    }
   }
 }
